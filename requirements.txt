@@ -1,0 +1,6 @@
+langchain
+langchain-community
+chromadb
+gradio
+python-dotenv
+sentence-transformers
