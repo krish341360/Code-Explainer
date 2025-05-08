@@ -20,7 +20,7 @@ An AI-powered application that explains code snippets, providing insights into t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Code-Explainer.git
+git clone https://github.com/krish341360/Code-Explainer.git
 cd Code-Explainer
 ```
 
